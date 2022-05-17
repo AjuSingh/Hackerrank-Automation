@@ -12,7 +12,7 @@ Created automation script with the help of node js and npm package named Puppete
 
 ### Installing
 
-* clone repository
+* git clone https://github.com/AjuSingh/Hackerrank-Automation.git
 * npm install
 
 ### Executing program
